@@ -1,4 +1,4 @@
-UIGradient = {
+return {
     Order = {"Appearance","Data"},
 
     Appearance = {
@@ -8,6 +8,4 @@ UIGradient = {
     Data = {
         "Archivable","ClassName","Name","Parent","UniqueId"
     }
-},
-
-return UIGradient
+}
