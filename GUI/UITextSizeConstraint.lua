@@ -1,4 +1,4 @@
-UITextSizeConstraint = {
+return {
     Order = {"Data","Behavior"},
 
     Data = {
@@ -8,6 +8,4 @@ UITextSizeConstraint = {
     Behavior = {
         "MaxTextSize","MinTextSize"
     }
-},
-
-return UITextSizeConstraint
+}
