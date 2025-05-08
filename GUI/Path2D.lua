@@ -1,4 +1,4 @@
-Path2D = {
+return {
     Order = {"Data","ControlPoints"},
 
     Data = {
@@ -9,6 +9,4 @@ Path2D = {
     ControlPoints = {
         "SelectedControlPoint","SelectedControlPointData"
     }
-},
-
-return Path2D
+}
