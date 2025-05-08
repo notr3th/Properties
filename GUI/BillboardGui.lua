@@ -1,4 +1,4 @@
-BillboardGui = {
+return {
     Order = {"Data","Behavior","Localization","Selection"},
 
     Data = {
@@ -19,6 +19,4 @@ BillboardGui = {
     Selection = {
         "SelectionGroup"
     }
-},
-
-return BillboardGui
+}
