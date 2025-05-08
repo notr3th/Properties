@@ -1,4 +1,4 @@
-TextLabel = {
+return {
     Order = {"Appearance","Data","Behavior","Localization","Selection","State","Text"},
 
     Appearance = {
@@ -35,6 +35,4 @@ TextLabel = {
         "TextStrokeColor3","TextStrokeTransparency","TextTransparency","TextTruncate","TextWrapped",
         "TextXAlignment","TextYAlignment"
     }
-},
-
-return TextLabel
+}
