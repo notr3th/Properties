@@ -21,7 +21,7 @@ return {
 
     Image = {
         "HoverImage","Image","ImageColor3","ImageRectOffset","ImageRectSize","ImageTransparency",
-        "IsLoaded","PressedImage","ResampleMode","ScaleType"
+        "IsLoaded","PressedImage","ResampleMode","ScaleType","SliceCenter","SliceScale"
     },
 
     Localization = {
