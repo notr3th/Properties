@@ -1,4 +1,4 @@
-UIAspectRatioConstraint = {
+return {
     Order = {"Data","Behavior"},
 
     Data = {
@@ -8,6 +8,4 @@ UIAspectRatioConstraint = {
     Behavior = {
         "AspectRatio","AspectType","DominantAxis"
     }
-},
-
-return UIAspectRatioConstraint
+}
