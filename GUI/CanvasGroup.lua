@@ -1,4 +1,4 @@
-CanvasGroup = {
+return {
     Order = {"Appearance","Data","Localization","Selection","State"},
 
     Appearance = {
@@ -24,6 +24,4 @@ CanvasGroup = {
     State = {
         "GuiState"
     }
-},
-
-return CanvasGroup
+}
