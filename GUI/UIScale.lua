@@ -1,4 +1,4 @@
-UIScale = {
+return {
     Order = {"Data","Behavior"},
 
     Data = {
@@ -8,6 +8,4 @@ UIScale = {
     Behavior = {
         "Scale"
     }
-},
-
-return UIScale
+}
