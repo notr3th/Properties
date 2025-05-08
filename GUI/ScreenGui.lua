@@ -1,4 +1,4 @@
-ScreenGui = {
+return {
     Order = {"Appearance","Data","Localization","Selection"},
 
     Appearance = {
@@ -17,6 +17,4 @@ ScreenGui = {
     Selection = {
         "SelectionGroup"
     },
-},
-
-return ScreenGui
+}
