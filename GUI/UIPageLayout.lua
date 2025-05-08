@@ -1,4 +1,4 @@
-UIPageLayout = {
+return {
     Order = {"Appearance","Data","Behavior","Alignment","Input"},
 
     Appearance = {
@@ -20,6 +20,4 @@ UIPageLayout = {
     Input = {
         "GamepadInputEnabled","ScrollWheelInputEnabled","TouchInputEnabled"
     }
-},
-
-return UIPageLayout
+}
