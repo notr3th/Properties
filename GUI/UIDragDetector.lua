@@ -1,4 +1,4 @@
-UIDragDetector = {
+return {
     Order = {"Data","Behavior","Drag_Limits","Dragged_Amount","Image"},
 
     Data = {
@@ -22,6 +22,4 @@ UIDragDetector = {
     Image = {
         "ActivatedCursorIcon","CursorIcon"
     }
-},
-
-return UIDragDetector
+}
