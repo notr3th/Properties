@@ -1,4 +1,4 @@
-UICorner = {
+return {
     Order = {"Appearance","Data"},
 
     Appearance = {
@@ -8,6 +8,4 @@ UICorner = {
     Data = {
         "Archivable","ClassName","Name","Parent","UniqueId"
     }
-},
-
-return UICorner
+}
