@@ -1,4 +1,4 @@
-local Properties = {
+return {
     BillboardGui = {
         Order = {"Data","Behavior","Localization","Selection"},
 
@@ -673,5 +673,3 @@ local Properties = {
         }
     }
 }
-
-return Properties
