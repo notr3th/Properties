@@ -1,4 +1,4 @@
-UIPadding = {
+return {
     Order = {"Data","Behavior"},
 
     Data = {
@@ -8,6 +8,4 @@ UIPadding = {
     Behavior = {
         "PaddingBottom","PaddingLeft","PaddingRight","PaddingTop"
     }
-},
-
-return UIPadding
+}
