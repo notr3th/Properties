@@ -1,4 +1,4 @@
-UIListLayout = {
+return {
     Order = {"Appearance","Data","Behavior","Alignment"},
 
     Appearance = {
@@ -16,6 +16,4 @@ UIListLayout = {
     Alignment = {
         "HorizontalAlignment","HorizontalFlex","ItemLineAlignment","VerticalAlignment","VerticalFlex"
     }
-},
-
-return UIListLayout
+}
