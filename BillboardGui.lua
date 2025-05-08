@@ -20,3 +20,5 @@ BillboardGui = {
         "SelectionGroup"
     }
 },
+
+return BillboardGui
