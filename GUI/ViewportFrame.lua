@@ -1,4 +1,4 @@
-ViewportFrame = {
+return {
     Order = {"Appearance","Data","Behavior","Image","Localization","Selection"},
     
     Appearance = {
@@ -29,5 +29,3 @@ ViewportFrame = {
         "SelectionGroup","SelectionOrder"
     }
 }
-
-return ViewportFrame
