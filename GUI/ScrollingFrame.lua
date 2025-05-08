@@ -1,4 +1,4 @@
-ScrollingFrame = {
+return {
     Order = {"Appearance","Data","Behavior","Localization","Scrolling","Selection","State"},
 
     Appearance = {
@@ -36,6 +36,4 @@ ScrollingFrame = {
     State = {
         "GuiState"
     }
-},
-
-return ScrollingFrame
+}
