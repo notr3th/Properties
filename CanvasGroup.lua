@@ -25,3 +25,5 @@ CanvasGroup = {
         "GuiState"
     }
 },
+
+return CanvasGroup
