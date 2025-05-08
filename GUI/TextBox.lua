@@ -1,4 +1,4 @@
-TextBox = {
+return {
     Order = {"Appearance","Data","Behavior","Localization","Selection","State","Text"},
 
     Appearance = {
@@ -36,6 +36,4 @@ TextBox = {
         "TextSize","TextStrokeColor3","TextStrokeTransparency","TextTransparency","TextTruncate","TextWrapped",
         "TextXAlignment","TextYAlignment"
     }
-},
-
-return TextBox
+}
