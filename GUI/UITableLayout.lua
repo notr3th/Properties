@@ -1,4 +1,4 @@
-UITableLayout = {
+return {
     Order = {"Appearance","Data","Behavior","Alignment"},
 
     Appearance = {
@@ -16,6 +16,4 @@ UITableLayout = {
     Alignment = {
         "HorizontalAlignment","VerticalAlignment"
     }
-},
-
-return UITableLayout
+}
