@@ -1,4 +1,4 @@
-ImageLabel = {
+return {
     Order = {"Appearance","Data","Behavior","Haptic","Image","Localization","Selection","State"},
 
     Appearance = {
@@ -33,6 +33,4 @@ ImageLabel = {
     State = {
         "GuiState"
     }
-},
-
-return ImageLabel
+}
