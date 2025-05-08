@@ -1,4 +1,4 @@
-UIStroke = {
+return {
     Order = {"Appearance","Data"},
 
     Appearance = {
@@ -8,6 +8,4 @@ UIStroke = {
     Data = {
         "Archivable","ClassName","Enabled","Name","Parent","UniqueId"
     }
-},
-
-return UIStroke
+}
