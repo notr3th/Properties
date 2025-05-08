@@ -1,4 +1,4 @@
-Frame = {
+return {
     Order = {"Appearance","Data","Behavior","Localization","Selection","State"},
 
     Appearance = {
@@ -28,6 +28,4 @@ Frame = {
     State = {
         "GuiState"
     }
-},
-
-return Frame
+}
