@@ -1,4 +1,4 @@
-ImageButton = {
+return {
     Order = {"Appearance","Data","Behavior","Haptic","Image","Localization","Selection","State"},
 
     Appearance = {
@@ -36,6 +36,4 @@ ImageButton = {
     State = {
         "GuiState"
     }
-},
-
-return ImageButton
+}
