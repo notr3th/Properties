@@ -1,4 +1,4 @@
-SurfaceGui = {
+return {
     Order = {"Appearance","Data","Behavior","Localization","Selection","Sizing"},
 
     Appearance = {
@@ -26,6 +26,4 @@ SurfaceGui = {
     Sizing = {
         "PixelsPerStud","SizingMode"
     }
-},
-
-return SurfaceGui
+}
