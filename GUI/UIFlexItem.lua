@@ -1,4 +1,4 @@
-UIFlexItem = {
+return {
     Order = {"Appearance","Data"},
 
     Appearance = {
@@ -8,6 +8,4 @@ UIFlexItem = {
     Data = {
         "Archivable","ClassName","Name","Parent","UniqueId"
     }
-},
-
-return UIFlexItem
+}
