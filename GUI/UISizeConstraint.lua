@@ -1,4 +1,4 @@
-UISizeConstraint = {
+return {
     Order = {"Data","Behavior"},
 
     Data = {
@@ -8,6 +8,4 @@ UISizeConstraint = {
     Behavior = {
         "MaxSize","MinSize"
     }
-},
-
-return UISizeConstraint
+}
