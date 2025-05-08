@@ -1,4 +1,4 @@
-UIGridLayout = {
+return {
     Order = {"Appearance","Data","Behavior","Alignment"},
 
     Appearance = {
@@ -17,6 +17,4 @@ UIGridLayout = {
     Alignment = {
         "HorizontalAlignment","VerticalAlignment"
     }
-},
-
-return UIGridLayout
+}
