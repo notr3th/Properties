@@ -1,4 +1,4 @@
-TextButton = {
+return {
     Order = {"Appearance","Data","Behavior","Haptic","Localization","Selection","State","Text"},
 
     Appearance = {
@@ -39,6 +39,4 @@ TextButton = {
         "TextStrokeColor3","TextStrokeTransparency","TextTransparency","TextTruncate","TextWrapped",
         "TextXAlignment","TextYAlignment"
     }
-},
-
-return TextButton
+}
