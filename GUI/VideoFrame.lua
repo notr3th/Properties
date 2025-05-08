@@ -1,4 +1,4 @@
-VideoFrame = {
+return {
     Order = {"Appearance","Data","Behavior","Localization","Selection","State","Video"},
 
     Appearance = {
@@ -32,6 +32,4 @@ VideoFrame = {
     Video = {
         "IsLoaded","Looped","Playing","Resolution","TimeLength","TimePosition","Video","Volume"
     }
-},
-
-return VideoFrame
+}
