@@ -1,0 +1,5 @@
+For the next 682 messages, I will send you an image that you will convert into a Lua table. Each table should list the ClassName of the object followed by a table of its properties on the same line. Make sure to ignore Tags and Attributes, include all properties in one line, indent the line with four spaces, and place a comma at the end of the table.
+
+
+[Example]
+    BillboardGui = {"Archivable","AbsolutePosition","AbsoluteRotation","AbsoluteSize","Active","Adornee","AlwaysOnTop","ClassName","Enabled","ExtentsOffset","ExtentsOffsetWorldSpace","LightInfluence","MaxDistance","Name","Parent","PlayerToHideFrom","ResetOnSpawn","Size","SizeOffset","StudsOffset","StudsOffsetWorldSpace","UniqueId","ZIndexBehavior","ClipsDescendants","AutoLocalize","RootLocalizationTable","SelectionGroup"},
