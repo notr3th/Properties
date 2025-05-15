@@ -1,9 +1,5 @@
 local Classes = {}
-
 local trueList = {}
-for Class, _ in pairs(Classes) do
-    trueList[Class] = true
-end
 
 local function dumpList(tbl)
     local Lines = {"local Classes = {"}
@@ -12,6 +8,10 @@ local function dumpList(tbl)
     end
     table.insert(Lines, "}")
     return table.concat(Lines, "\n")
+end
+
+for Class, _ in pairs(Classes) do
+    trueList[Class] = true
 end
 
 print(dumpList(trueList))
