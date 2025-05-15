@@ -66,4 +66,4 @@ for _, Class in ipairs(classList) do
     end
 end
 
-print(("Spawned %d classes."):format(#classList))
+print("Spawned " .. #Container:GetDescendants() .. " classes")
