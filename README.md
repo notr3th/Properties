@@ -2,7 +2,6 @@
 
 **Properties** is a comprehensive dump of all Roblox Studio classes, each accompanied by their respective properties. This dataset is particularly useful for tools like Dark Dex, facilitating enhanced inspection and manipulation of Roblox instances.
 
-[![License][shield-repo-license]][repo-license]
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
 [![Stars][shield-repo-stargazers]][repo-stargazers]
@@ -30,9 +29,6 @@ If you notice any inaccuracies, missing classes, or properties:
 * Submit a [pull request](https://github.com/notr3th/Properties/pulls) with the necessary corrections or additions.
 
 Your contributions help maintain the accuracy and comprehensiveness of this dataset.
-
-[shield-repo-license]: https://img.shields.io/github/license/notr3th/Properties?style=flat&labelColor=c80064&color=c80064
-[repo-license]: https://github.com/notr3th/Properties/blob/main/LICENSE
 
 [shield-repo-releases]: https://img.shields.io/github/downloads/notr3th/Properties/total?style=flat&labelColor=007ec6&color=007ec6
 [repo-releases]: https://github.com/notr3th/Properties/releases
